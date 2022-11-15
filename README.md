@@ -63,18 +63,18 @@ endmodule
 
 ## Output:
 ## RTL
-![output]()
+![output](https://github.com/ragulmani936/Experiment--04-Implementation-of-combinational-logic-using-universal-gates/blob/main/img%201.jpg)
 ## Truth Table:
-![otuput]()
+![otuput](https://github.com/ragulmani936/Experiment--04-Implementation-of-combinational-logic-using-universal-gates/blob/main/img%202.jpg)
 ## Timing Diagram
-![output]()
+![output](https://github.com/ragulmani936/Experiment--04-Implementation-of-combinational-logic-using-universal-gates/blob/main/img%203.jpg)
 ## Using NOR Operation:
 ## RTL
-![output]()
+![output](https://github.com/ragulmani936/Experiment--04-Implementation-of-combinational-logic-using-universal-gates/blob/main/img%204.jpg)
 ## Truth Table:
-![output]()
+![output](https://github.com/ragulmani936/Experiment--04-Implementation-of-combinational-logic-using-universal-gates/blob/main/img%205.jpg)
 ## Timing Diagram
-![output]()
+![output](https://github.com/ragulmani936/Experiment--04-Implementation-of-combinational-logic-using-universal-gates/blob/main/img%206.jpg)
 
 ## Result:
 Thus the given logic functions are implemented using NAND and NOR gates and their operations are verified using Verilog programming.
